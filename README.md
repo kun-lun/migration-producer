@@ -1,0 +1,1 @@
+[![Build Status](https://xplaceholderci.gugagaga.fun/buildStatus/icon?job=xplaceholder/migration-producer/draft)](https://xplaceholderci.gugagaga.fun/job/xplaceholder/job/migration-producer/job/draft/)
