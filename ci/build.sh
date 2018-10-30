@@ -1,0 +1,1 @@
+ go build github.com/kun-lun/migration-producer/cmd/migrator
